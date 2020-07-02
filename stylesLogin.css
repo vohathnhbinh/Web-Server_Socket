@@ -1,7 +1,7 @@
 *, ::after, ::before {
 	 box-sizing: border-box;
 }
- body {
+body {
 	 position: absolute;
 	 top: -20px;
 	 left: -20px;
@@ -10,6 +10,7 @@
 	 width: auto;
 	 height: auto;
 	 background-image: url(https://66.media.tumblr.com/8072c169209a410edad136246ebd5a33/tumblr_pg8vt11nQe1xhud4ho1_400.gif);
+	 background-repeat: no-repeat;
 	 background-size: cover;
 	 color: #fff;
 	 font-family: monospace, serif;
